@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4933616856",
+    "project_id": "solo-355c8",
+    "storage_bucket": "solo-355c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4933616856:android:7ddddc4dcf13231e37c3ad",
+        "android_client_info": {
+          "package_name": "com.example.global_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKs475S-yC8U16yXdM-tKDJWYGyZKigE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
